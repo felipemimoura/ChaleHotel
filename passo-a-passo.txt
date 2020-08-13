@@ -1,0 +1,27 @@
+Criação do site do chalé hotel
+01 - Criação do topo -  ✔
+
+- () Layout Líquido
+- (✔) Estruturas de pastas
+- (✔) Estrutura padrão HTML
+- (✔) reset css
+- (✔) Configuração padrões do body
+- () css 
+  - (✔) background: #ede9cc
+  - (✔) margin: 15px
+  - (✔) header - position relative
+  - (✔) header - background #dbcd87
+  - (✔) header - height 15.4em
+  - (✔) header - min-height: 250px
+  - () body - margin 0 auto
+  - () body - min-width: 740px
+  - () body - max-width: 1180px
+
+    (✔) lOgO - position Absolute
+  - (✔) LOGO - width: 100%
+  - (✔) LOGO - height: 250px
+  - (✔) menu - Position abusolute
+  - (✔) menu - width: 450px
+  - (✔) menu - height: 250px
+
+  -() #b5ab56#
